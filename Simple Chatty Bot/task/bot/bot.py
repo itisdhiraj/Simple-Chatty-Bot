@@ -51,7 +51,7 @@ def end():
     print('Congratulations, have a nice day!')
 
 
-greet('Aid', '2020')  # change it as you need
+greet('UraBot', '2020')  # change it as you need
 remind_name()
 guess_age()
 count()
